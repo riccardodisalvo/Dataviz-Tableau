@@ -1,4 +1,4 @@
-# Superstore Tableau Analytics Project
+# Superstore Sales Analysis 
 
 In this project, we developed advanced analytical tools using Tableau to help Superstore optimize their business performance and make data-driven decisions. Dive into the project to explore insights on sales trends, profit distribution, and effective marketing budget allocation for Superstore's European market!
 
