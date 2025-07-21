@@ -1,8 +1,10 @@
-# Descrizione del Progetto
+# Use Case: Ottimizzazione Data-Driven per Superstore in Europa
+
+## Descrizione del Progetto
 
 Superstore, una delle aziende più innovative nel panorama europeo, sta trasformando il proprio processo decisionale adottando un approccio data-driven. L'azienda necessita di un sistema di monitoraggio continuo delle operazioni in Europa e di una strategia di marketing mirata sui prodotti con il maggior potenziale di crescita. Questo progetto mira a creare una soluzione interattiva e dinamica per monitorare le performance aziendali e guidare le scelte strategiche.
 
-# Obiettivi del Progetto
+## Obiettivi del Progetto
 1. ### Creare una Dashboard Tableau per il Monitoraggio delle Attività
       - Monitorare l'andamento delle vendite nel tempo.
       - Analizzare il profitto per nazione.
@@ -17,13 +19,13 @@ Superstore, una delle aziende più innovative nel panorama europeo, sta trasform
       - Ottimizzare le spedizioni per prodotto.
       - Confrontare le performance delle diverse nazioni.
 
-# Valore Aggiunto
+## Valore Aggiunto
 
 - Decisioni basate sui dati: Fornire ai manager di Superstore gli strumenti per prendere decisioni strategiche           informate.
 - Ottimizzazione delle risorse: Migliorare l'efficienza operativa e ridurre i costi.
 - Strategia di marketing efficace: Allocare il budget in modo ottimale per massimizzare i profitti.
 
-# Fasi del Progetto
+## Fasi del Progetto
 1. ### Creazione della Dashboard Tableau
    
 Andamento delle Vendite nel Tempo: Visualizzazione dinamica delle vendite negli ultimi mesi.
@@ -40,10 +42,11 @@ Profitti per Città: Identificare le città più profittevoli.
 Spedizioni per Prodotti: Individuare inefficienze nella logistica.
 Performance delle Nazioni: Determinare potenziali mercati di espansione o riduzione.
 
-# Conclusioni
+## Conclusioni
 
 Grazie a dashboard dinamiche e una Tableau Story strutturata, Superstore potrà monitorare le operazioni in Europa e prendere decisioni di marketing più efficaci. Questa soluzione consentirà all'azienda di migliorare l'efficienza, ridurre i costi e aumentare i profitti, garantendo successo in un mercato competitivo.
 
-# Contributi
+## Contributi
 Questo progetto rappresenta un passo avanti significativo per Superstore, permettendo all'azienda di basare le proprie decisioni su analisi approfondite e dati concreti.
+
 Contributi e feedback sono benvenuti!
